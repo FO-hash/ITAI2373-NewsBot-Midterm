@@ -5,13 +5,6 @@ ITAI2373-NewsBot-Midterm
     ├── data
     │   └── newsbot_dataset.csv
     │
-    ├── outputs
-    │   ├── confusion_matrix.png
-    │   ├── tfidf_top_terms.png
-    │   ├── sentiment_distribution.png
-    │   ├── entity_frequency.png
-    │   └── classification_report.csv
-    │
     ├── report
     │   └── MT_Report_Group_01_Funsho_Orogun_ITAI2373.pdf
     │
